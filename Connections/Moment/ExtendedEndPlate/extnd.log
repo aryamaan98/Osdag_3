@@ -1,0 +1,201 @@
+<link rel="stylesheet" type="text/css" href="Connections/Moment/BCEndPlate/log.css"/>
+
+	<div  class="LOG WARNING">
+		<span class="DATE">Fri, 21 Jun 2019 13:12:54</span>
+		<span class="LEVEL">WARNING</span>
+		<span class="MSG">: The input factored moment (50.00 kN-m) is less that the minimum design action on the connection (Cl. 10.7-6, IS 800:2007)</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Fri, 21 Jun 2019 13:12:54</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: The connection is designed for 83.64 kN-m</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Fri, 21 Jun 2019 13:12:54</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: Overall extended end plate connection design is safe 
+</span>
+	</div>
+
+	<div  class="LOG DEBUG">
+		<span class="DATE">Fri, 21 Jun 2019 13:12:54</span>
+		<span class="LEVEL">DEBUG</span>
+		<span class="MSG"> :=========End Of design===========</span>
+	</div>
+
+	<div  class="LOG WARNING">
+		<span class="DATE">Fri, 21 Jun 2019 13:12:56</span>
+		<span class="LEVEL">WARNING</span>
+		<span class="MSG">: The input factored moment (50.00 kN-m) is less that the minimum design action on the connection (Cl. 10.7-6, IS 800:2007)</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Fri, 21 Jun 2019 13:12:56</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: The connection is designed for 83.64 kN-m</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Fri, 21 Jun 2019 13:12:56</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: Overall extended end plate connection design is safe 
+</span>
+	</div>
+
+	<div  class="LOG DEBUG">
+		<span class="DATE">Fri, 21 Jun 2019 13:12:56</span>
+		<span class="LEVEL">DEBUG</span>
+		<span class="MSG"> :=========End Of design===========</span>
+	</div>
+
+	<div  class="LOG WARNING">
+		<span class="DATE">Fri, 21 Jun 2019 13:12:58</span>
+		<span class="LEVEL">WARNING</span>
+		<span class="MSG">: The input factored moment (50.00 kN-m) is less that the minimum design action on the connection (Cl. 10.7-6, IS 800:2007)</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Fri, 21 Jun 2019 13:12:58</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: The connection is designed for 83.64 kN-m</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Fri, 21 Jun 2019 13:12:58</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: Overall extended end plate connection design is safe 
+</span>
+	</div>
+
+	<div  class="LOG DEBUG">
+		<span class="DATE">Fri, 21 Jun 2019 13:12:58</span>
+		<span class="LEVEL">DEBUG</span>
+		<span class="MSG"> :=========End Of design===========</span>
+	</div>
+
+	<div  class="LOG WARNING">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:14</span>
+		<span class="LEVEL">WARNING</span>
+		<span class="MSG">: The input factored moment (50.00 kN-m) is less that the minimum design action on the connection (Cl. 10.7-6, IS 800:2007)</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:14</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: The connection is designed for 83.64 kN-m</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:14</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: Overall extended end plate connection design is safe 
+</span>
+	</div>
+
+	<div  class="LOG DEBUG">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:14</span>
+		<span class="LEVEL">DEBUG</span>
+		<span class="MSG"> :=========End Of design===========</span>
+	</div>
+
+	<div  class="LOG WARNING">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:18</span>
+		<span class="LEVEL">WARNING</span>
+		<span class="MSG">: The input factored moment (50.00 kN-m) is less that the minimum design action on the connection (Cl. 10.7-6, IS 800:2007)</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:18</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: The connection is designed for 83.64 kN-m</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:18</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: Overall extended end plate connection design is safe 
+</span>
+	</div>
+
+	<div  class="LOG DEBUG">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:18</span>
+		<span class="LEVEL">DEBUG</span>
+		<span class="MSG"> :=========End Of design===========</span>
+	</div>
+
+	<div  class="LOG WARNING">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:22</span>
+		<span class="LEVEL">WARNING</span>
+		<span class="MSG">: The input factored moment (50.00 kN-m) is less that the minimum design action on the connection (Cl. 10.7-6, IS 800:2007)</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:22</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: The connection is designed for 83.64 kN-m</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:22</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: Overall extended end plate connection design is safe 
+</span>
+	</div>
+
+	<div  class="LOG DEBUG">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:22</span>
+		<span class="LEVEL">DEBUG</span>
+		<span class="MSG"> :=========End Of design===========</span>
+	</div>
+
+	<div  class="LOG WARNING">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:34</span>
+		<span class="LEVEL">WARNING</span>
+		<span class="MSG">: The input factored moment (50.00 kN-m) is less that the minimum design action on the connection (Cl. 10.7-6, IS 800:2007)</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:34</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: The connection is designed for 83.64 kN-m</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:34</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: Overall extended end plate connection design is safe 
+</span>
+	</div>
+
+	<div  class="LOG DEBUG">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:34</span>
+		<span class="LEVEL">DEBUG</span>
+		<span class="MSG"> :=========End Of design===========</span>
+	</div>
+
+	<div  class="LOG WARNING">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:51</span>
+		<span class="LEVEL">WARNING</span>
+		<span class="MSG">: The input factored moment (50.00 kN-m) is less that the minimum design action on the connection (Cl. 10.7-6, IS 800:2007)</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:51</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: The connection is designed for 83.64 kN-m</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:51</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: Overall extended end plate connection design is safe 
+</span>
+	</div>
+
+	<div  class="LOG DEBUG">
+		<span class="DATE">Fri, 21 Jun 2019 13:13:51</span>
+		<span class="LEVEL">DEBUG</span>
+		<span class="MSG"> :=========End Of design===========</span>
+	</div>

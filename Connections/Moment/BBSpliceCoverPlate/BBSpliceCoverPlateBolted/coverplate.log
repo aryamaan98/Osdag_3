@@ -1,0 +1,7 @@
+<link rel="stylesheet" type="text/css" href=Connections/Moment/BBSpliceCoverPlate/BBSpliceCoverPlateBolted/log.css/>
+
+	<div  class="LOG WARNING">
+		<span class="DATE">Mon, 01 Jul 2019 12:18:50</span>
+		<span class="LEVEL">WARNING</span>
+		<span class="MSG"> : You are using a section (in red color) that is not available in latest version of IS 808</span>
+	</div>

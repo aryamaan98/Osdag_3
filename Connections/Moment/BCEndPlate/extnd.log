@@ -1,0 +1,39 @@
+<link rel="stylesheet" type="text/css" href="Connections/Moment/BCEndPlate/log.css"/>
+
+	<div  class="LOG WARNING">
+		<span class="DATE">Mon, 01 Jul 2019 13:11:18</span>
+		<span class="LEVEL">WARNING</span>
+		<span class="MSG">: You are using a section (in red colour) that is not available in the latest version of IS 808</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Mon, 01 Jul 2019 13:11:18</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: Overall end plate moment connection design is safe 
+</span>
+	</div>
+
+	<div  class="LOG DEBUG">
+		<span class="DATE">Mon, 01 Jul 2019 13:11:18</span>
+		<span class="LEVEL">DEBUG</span>
+		<span class="MSG"> :=========End Of design===========</span>
+	</div>
+
+	<div  class="LOG WARNING">
+		<span class="DATE">Mon, 01 Jul 2019 13:11:23</span>
+		<span class="LEVEL">WARNING</span>
+		<span class="MSG">: You are using a section (in red colour) that is not available in the latest version of IS 808</span>
+	</div>
+
+	<div  class="LOG INFO">
+		<span class="DATE">Mon, 01 Jul 2019 13:11:23</span>
+		<span class="LEVEL">INFO</span>
+		<span class="MSG">: Overall end plate moment connection design is safe 
+</span>
+	</div>
+
+	<div  class="LOG DEBUG">
+		<span class="DATE">Mon, 01 Jul 2019 13:11:23</span>
+		<span class="LEVEL">DEBUG</span>
+		<span class="MSG"> :=========End Of design===========</span>
+	</div>

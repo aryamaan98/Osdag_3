@@ -1,0 +1,129 @@
+(dp0
+S'Load'
+p1
+(dp2
+S'Moment (kNm)'
+p3
+V
+p4
+sS'ShearForce (kN)'
+p5
+g4
+sS'AxialForce'
+p6
+g4
+ssS'weld'
+p7
+(dp8
+S'typeof_weld'
+p9
+S'Shop weld'
+p10
+sS'fu_overwrite'
+p11
+V410
+p12
+sS'safety_factor'
+p13
+F1.25
+ssS'detailing'
+p14
+(dp15
+S'typeof_edge'
+p16
+S'a - Sheared or hand flame cut'
+p17
+sS'is_env_corrosive'
+p18
+S'No'
+p19
+sS'min_edgend_dist'
+p20
+F1.7
+sS'gap'
+p21
+F5.0
+ssS'Connection'
+p22
+S'Coverplate'
+p23
+sS'FlangePlate'
+p24
+(dp25
+S'Width (mm)'
+p26
+g4
+sS'Height (mm)'
+p27
+g4
+sS'Preferences'
+p28
+VCover plate location
+p29
+sS'Thickness (mm)'
+p30
+g4
+ssS'Member'
+p31
+(dp32
+S'Connectivity'
+p33
+S'Select Connectivity'
+p34
+sS'fu (MPa)'
+p35
+g4
+sS'BeamSection'
+p36
+S'Select section'
+p37
+sS'fy (MPa)'
+p38
+g4
+ssS'WebPlate'
+p39
+(dp40
+g26
+g4
+sg27
+g4
+sg30
+VSelect plate thickness
+p41
+ssS'design'
+p42
+(dp43
+S'design_method'
+p44
+S'Limit State Design'
+p45
+ssS'Bolt'
+p46
+(dp47
+S'Grade'
+p48
+g4
+sS'Diameter (mm)'
+p49
+VSelect diameter
+p50
+sS'Type'
+p51
+VPlease select type
+p52
+ssS'bolt'
+p53
+(dp54
+S'bolt_hole_clrnce'
+p55
+NsS'slip_factor'
+p56
+F0.3
+sS'bolt_fu'
+p57
+F800.0
+sS'bolt_hole_type'
+p58
+S'Standard'
+p59
+ss.

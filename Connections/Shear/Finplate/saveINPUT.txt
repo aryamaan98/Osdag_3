@@ -1,0 +1,126 @@
+(dp0
+S'Load'
+p1
+(dp2
+S'ShearForce (kN)'
+p3
+V140
+p4
+ssS'Plate'
+p5
+(dp6
+S'Width (mm)'
+p7
+V
+p8
+sS'Height (mm)'
+p9
+g8
+sS'Thickness (mm)'
+p10
+V12
+p11
+ssS'Weld'
+p12
+(dp13
+S'Size (mm)'
+p14
+V10
+p15
+ssS'detailing'
+p16
+(dp17
+S'typeof_edge'
+p18
+S'a - Sheared or hand flame cut'
+p19
+sS'is_env_corrosive'
+p20
+S'No'
+p21
+sS'min_edgend_dist'
+p22
+F1.7
+sS'gap'
+p23
+F10.0
+ssS'Member'
+p24
+(dp25
+S'ColumSection'
+p26
+S'UC 305 x 305 x 97'
+p27
+sS'fu (MPa)'
+p28
+V410
+p29
+sS'BeamSection'
+p30
+S'MB 500'
+p31
+sS'fy (MPa)'
+p32
+V250
+p33
+sS'Connectivity'
+p34
+S'Column flange-Beam web'
+p35
+ssS'Connection'
+p36
+S'Finplate'
+p37
+sS'design'
+p38
+(dp39
+S'design_method'
+p40
+S'Limit State Design'
+p41
+ssS'Bolt'
+p42
+(dp43
+S'Grade'
+p44
+V8.8
+p45
+sS'Diameter (mm)'
+p46
+V24
+p47
+sS'Type'
+p48
+S'Friction Grip Bolt'
+p49
+ssS'weld'
+p50
+(dp51
+S'typeof_weld'
+p52
+S'Field weld'
+p53
+sS'fu_overwrite'
+p54
+V410
+p55
+sS'safety_factor'
+p56
+F1.5
+ssS'bolt'
+p57
+(dp58
+S'bolt_hole_clrnce'
+p59
+I2
+sS'slip_factor'
+p60
+F0.3
+sS'bolt_fu'
+p61
+F800.0
+sS'bolt_hole_type'
+p62
+S'Standard'
+p63
+ss.

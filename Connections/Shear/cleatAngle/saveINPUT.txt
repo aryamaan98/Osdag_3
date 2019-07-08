@@ -1,0 +1,111 @@
+(dp0
+S'Load'
+p1
+(dp2
+S'ShearForce (kN)'
+p3
+V140
+p4
+ssS'weld'
+p5
+(dp6
+S'typeof_weld'
+p7
+S'Shop weld'
+p8
+sS'safety_factor'
+p9
+F1.25
+ssS'detailing'
+p10
+(dp11
+S'typeof_edge'
+p12
+S'a - Sheared or hand flame cut'
+p13
+sS'is_env_corrosive'
+p14
+S'No'
+p15
+sS'min_edgend_dist'
+p16
+F1.7
+sS'gap'
+p17
+F10.0
+ssS'cleat'
+p18
+(dp19
+S'section'
+p20
+S'Select Cleat'
+p21
+sS'Height (mm)'
+p22
+S''
+p23
+ssS'Member'
+p24
+(dp25
+S'ColumSection'
+p26
+S'SC 250'
+p27
+sS'fu (MPa)'
+p28
+V
+p29
+sS'BeamSection'
+p30
+S'MB 350'
+p31
+sS'fy (MPa)'
+p32
+g29
+sS'Connectivity'
+p33
+S'Column flange-Beam web'
+p34
+ssS'Connection'
+p35
+S'cleatAngle'
+p36
+sS'design'
+p37
+(dp38
+S'design_method'
+p39
+VLimit State Design
+p40
+ssS'Bolt'
+p41
+(dp42
+S'Grade'
+p43
+V3.6
+p44
+sS'Diameter (mm)'
+p45
+S'20'
+p46
+sS'Type'
+p47
+S'Bearing Bolt'
+p48
+ssS'bolt'
+p49
+(dp50
+S'bolt_hole_clrnce'
+p51
+I2
+sS'slip_factor'
+p52
+F0.3
+sS'bolt_fu'
+p53
+F300.0
+sS'bolt_hole_type'
+p54
+S'Standard'
+p55
+ss.

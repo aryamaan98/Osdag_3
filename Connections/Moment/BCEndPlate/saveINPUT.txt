@@ -1,0 +1,140 @@
+(dp0
+S'Load'
+p1
+(dp2
+S'Moment (kNm)'
+p3
+V220
+p4
+sS'ShearForce (kN)'
+p5
+V150
+p6
+sS'AxialForce (kN)'
+p7
+V010
+p8
+ssS'Plate'
+p9
+(dp10
+S'Thickness (mm)'
+p11
+S'30'
+p12
+ssS'Weld'
+p13
+(dp14
+S'Flange (mm)'
+p15
+S'10'
+p16
+sS'Method'
+p17
+S'Groove Weld (CJP)'
+p18
+sS'Web (mm)'
+p19
+S'8'
+p20
+ssS'detailing'
+p21
+(dp22
+S'typeof_edge'
+p23
+S'a - Sheared or hand flame cut'
+p24
+sS'is_env_corrosive'
+p25
+S'No'
+p26
+sS'min_edgend_dist'
+p27
+F1.7
+ssS'Member'
+p28
+(dp29
+S'fu (MPa)'
+p30
+V410
+p31
+sS'Connectivity'
+p32
+S'Column flange-Beam web'
+p33
+sS'BeamSection'
+p34
+S'UB 406 x 178 x 67'
+p35
+sS'fy (MPa)'
+p36
+V250
+p37
+sS'EndPlate_type'
+p38
+S'Extended one way'
+p39
+sS'ColumnSection'
+p40
+S'HB 450*'
+p41
+ssS'Connection'
+p42
+S'BCEndPlate'
+p43
+sS'design'
+p44
+(dp45
+S'design_method'
+p46
+S'Limit State Design'
+p47
+ssS'Bolt'
+p48
+(dp49
+S'Grade'
+p50
+V6.8
+p51
+sS'Diameter (mm)'
+p52
+V24
+p53
+sS'Type'
+p54
+VBearing Bolt
+p55
+ssS'weld'
+p56
+(dp57
+S'typeof_weld'
+p58
+S'Shop weld'
+p59
+sS'fu_overwrite'
+p60
+V410
+p61
+sS'safety_factor'
+p62
+F1.25
+ssS'bolt'
+p63
+(dp64
+S'bolt_hole_clrnce'
+p65
+I2
+sS'slip_factor'
+p66
+F0.3
+sS'bolt_fu'
+p67
+F600.0
+sS'bolt_type'
+p68
+S'Non-pretensioned'
+p69
+sS'bolt_hole_type'
+p70
+S'Standard'
+p71
+ss.
